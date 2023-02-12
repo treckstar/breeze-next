@@ -1,5 +1,5 @@
 # Laravel Breeze - Next.js Edition 🏝️
-
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2Fbd4797f8-2a67-448d-baa3-bf75224b7b29%3Fdate%3D1%26commit%3D1&style=plastic)](https://forge.laravel.com)
 ## Introduction
 
 This repository is an implementation of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [Next.js](https://nextjs.org). All of the authentication boilerplate is already written for you - powered by [Laravel Sanctum](https://laravel.com/docs/sanctum), allowing you to quickly begin pairing your beautiful Next.js frontend with a powerful Laravel backend.
